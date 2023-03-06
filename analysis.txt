@@ -1,0 +1,10 @@
+I think that the idea of evolution being simulated this way is interesting from the point of view of a curious person such as myself.
+I like the idea of seeing how a civilization evolves from each frame, much like the Freezer episode of Death, Love and Robots.
+Although, I must say this. I'm currently reading Cosmos by Carl Sagan and a phrase that really stuck with me goes something along the lines of
+"If the Earth were to be recreated a million times under the same conditions, we wouldn't end up with life as we know it today". I'm probably
+skewering it, but it is something like that. What I'm trying to say is this: Life and evolution isn't deterministic. And even though this 
+simulation is, I like the idea of seeing life evolve.
+
+After many simulations with a random grid there is not an enormous difference between each separate simulation in numbers. Blocks and blinkers 
+seem to be the configurations easiest to appear. Light-weight spaceships and toads seem to be the most difficult figures to form, because atleast
+in 5 of my simulations the light-weightship never appeared.
